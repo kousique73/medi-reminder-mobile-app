@@ -1,1 +1,3 @@
-# medi-reminder-mobile-app
+# Med_reminder
+
+Requirements-

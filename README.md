@@ -2,7 +2,7 @@
 
 A comprehensive Flutter mobile application designed to help users track and manage their medicine schedules. It provides timely reminders, stores medical data securely, and integrates with location services.
 
-## 🚀 Key Features
+##  Key Features
 
 *   **User Authentication:** Secure login and registration using Firebase Auth.
 *   **Medicine Reminders:** Schedule and manage medication routines with local notifications (`flutter_local_notifications`).
@@ -12,7 +12,7 @@ A comprehensive Flutter mobile application designed to help users track and mana
 *   **State Management:** Efficient and reactive UI updates using the `provider` package.
 *   **Custom UI/UX:** Responsive design using `sizer`, custom typography with `google_fonts`, and vector graphics with `flutter_svg`.
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 *   **Frontend:** Flutter (Dart)
 *   **Backend as a Service (BaaS):** Firebase
@@ -25,7 +25,7 @@ A comprehensive Flutter mobile application designed to help users track and mana
 *   **Maps & Location:** Google Maps Flutter, Geocoding, Location
 *   **Notifications:** Flutter Local Notifications, Flutter Native Timezone
 
-## 📁 Project Structure
+##  Project Structure
 
 The core application code is located in the `medicine_reminder_main_file/` directory.
 
@@ -46,7 +46,7 @@ medicine_reminder_main_file/
 └── ...
 ```
 
-## ⚙️ Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -76,6 +76,6 @@ medicine_reminder_main_file/
     flutter run
     ```
 
-## 📜 License
+##  License
 
 This project is open-source and available under the terms of the MIT License.
